@@ -107,3 +107,12 @@ The way the weaver defeats them is to sew their mouths closed while they're
 weakened.
 
 > I really like this.
+
+*Where is the setting of the story?*
+
+I was actually thinking of some isolated place in the north with limited
+daylight and which is full of snow. This makes it a little hard to work with the
+story though. A Better suggestion I personally believe would be to make the
+story take place in some down-town area. The provides the chance of more
+dialogue with random oddballs.
+
