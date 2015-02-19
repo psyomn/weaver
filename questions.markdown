@@ -216,6 +216,8 @@ Yeah. I think they should all be women. Natural magic to liberate this reality.
 I'm sure they don't call themselves voidmakers and would have a more positive
 term for themselves.
 
+> Pathbringers?
+
 *Who is the primary antagonist?*
 
 I'm calling her voidmaker prime. Someone who has left this reality and then
@@ -227,6 +229,7 @@ The first time the weaver sees her she dives back into the void. He believes
 she's lost until he encounters her later. She's stronger than the rest. She 
 can create a void and not be significantly weakened by it
 
+> Portals!
 
 *What would be the next step for the unnamed?*
 
