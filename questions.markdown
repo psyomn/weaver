@@ -1,5 +1,7 @@
 # Questions
 
+## Logistics
+
 *What is our target length?*
 
 The desired length of the final product dictates a lot about how much story
@@ -8,9 +10,20 @@ needs to be plotted.
 I'm leaning towards limiting the scope and if it's really short (to be defined
 later) then maintain a fairly linear structure.
 
-I also think it might be worth doing a small POC. Either with an isolated 
-segment from this project or an entirely separate project. It should be a 
+> I was considering something like a 100 page small book (a novella basically).
+> If this is not the amount of time you wish to invest that is totally fine.
+> This is something I wanted to do for a while, and wanted to do on the side
+> slowly and steadily to accompany my thesis writing so I don't burn out.
+
+I also think it might be worth doing a small POC. Either with an isolated
+segment from this project or an entirely separate project. It should be a
 required prerequisite to moving forward with this as a larger project.
+
+> POC sounds good. Let's get something concrete down, something we both like,
+> and something we really want to see in VN format. As you said, some scene can
+> be used.
+
+## Reality
 
 *If the fabric of reality is separated from a tear what happens to it?*
 
@@ -21,16 +34,18 @@ by cleaning up the edges.
 > I see Weaver as an ordinary guy that has a power, and rather would not have
 > it.
 >
->> Origin becomes important here. He's a normal guy implies just that.. he's 
->> normal. Which begs the question of why is he the one saddled with this 
->> power / responsibility. 
+>> Origin becomes important here. He's a normal guy implies just that.. he's
+>> normal. Which begs the question of why is he the one saddled with this
+>> power / responsibility.
 >>
->> I think if we answer the question of why he's doing this it will help to 
+>>> I want to go with the bidding thing by the unnamed.
+>>
+>> I think if we answer the question of why he's doing this it will help to
 >> determine where he came from, leading to who he actually is.
->> 
->> It is perhaps a bit cliche, but I like the idea of the weaver learning 
->> who he is along with the player. All he knows from the outset is that he's 
->> a duty bound worker; an outsider performing a skill he's simply always 
+>>
+>> It is perhaps a bit cliche, but I like the idea of the weaver learning
+>> who he is along with the player. All he knows from the outset is that he's
+>> a duty bound worker; an outsider performing a skill he's simply always
 >> known how to do, but never understood why. A duty he's been performing for
 >> a long time.
 >
@@ -46,6 +61,13 @@ those edges. What happens to those pieces when they're sheared off?
 
 > This is an awesome question. I did not even think about this. I am open to
 > anything pretty much.
+
+> I was considering the suggestion of the weaver weaving these torn pieces of
+> reality onto himself. I'm not big on body modification, but something that I
+> saw which was not TOO bad was in a manga where this guy was sewing shapes onto
+> himself (like flowers etc). I found something like that on the internet but
+> it's not very big. I dunno, just letting you know of this possibility, even
+> though I'm not too keen about it.
 
 I really the idea that they're linked back to the time and place that they were
 separated from. While the rift heals this little piece is forever trapped,
@@ -114,7 +136,7 @@ multiverse.
 >> As I mentioned earlier, as an unwitting agent for the unnamed (I'll get to this)
 >> who shut the doors and walled off this reality. It created him to patrol and
 >> mend the fences. The perimeter guard for the unnamed's private little prison.
->> It left him 
+>> It left him
 
 Which leads further down the hole to...
 
@@ -127,13 +149,22 @@ Where he was invisible.
 
 *Who set the weaver on his task to keep it segregated?*
 
-> Will be thinking on this.
+> We decided some entity that is leeching off the power of the current universe.
+> A la dictator style. And the weaver might be of the creation of that entity.
+> The weaver does not know this. The weaver finds out and chooses the wanted
+> course of action, as described later.
+
+## The Weaver, and Voidmakers (Pathbringers)
 
 *What does failure and success look like from the weaver?*
 
 I think, at least initially, that failure looks like someone slipping through the
-void. Anyone he is unable to actually prevent from either going in voluntarily 
+void. Anyone he is unable to actually prevent from either going in voluntarily
 or being drawn in.
+
+> I would like to hint that the Weaver would rather not have the power.
+> Essentially, if the weaver ends up weaving the final boss out of existence,
+> the power could vanish, liberating the weaver from his task.
 
 *Which costs more: repairing a rip or tearing one in the first place?*
 
@@ -159,55 +190,50 @@ story though. A Better suggestion I personally believe would be to make the
 story take place in some down-town area. The provides the chance of more
 dialogue with random oddballs.
 
-> I'm actually quite okay with this being a global thing. If he's truly 
+> I'm actually quite okay with this being a global thing. If he's truly
 > separate and a creation of the unnamed he could reasonbly travel anywhere
-> under his own will. 
+> under his own will.
+>> Fair enough - that can work well.
 
 *So the threads... Where do those come from?*
 
 We need it to take a toll on him. Let's make the act of closing a rip a blood
 offering. He pricks his finger and threads the needle with his blood.
 
+> That can work. For more vicious tears, an offering of bone might be required.
+> That could explain the toll a little more.
+
+### Voidmakers (Pathbringers)
+
 *Who is our antagonist?*
 
-I'm calling her voidmaker prime. 
+I'm calling her voidmaker prime.
 
 *The unnamed?*
 
-Yeah. 
+Yeah.
 
-Naming the categorization, the particularization of things. It's how we 
-organize and understand things. To be unnamed is to be uncategorized. To be 
+Naming the categorization, the particularization of things. It's how we
+organize and understand things. To be unnamed is to be uncategorized. To be
 beyond understanding and able to maintain power.
 
 He's been driven from other realities. This reality that he's walled off is
 the one he's feeding off of to gain power.
 
-He sent the weaver out to do his bidding. The task that he sent him on not
-worthy of the unnamed's attention. He set the weaver on his way and then 
-promptly moved on to other things.
+He sent the weaver out to do his bidding.
 
-*If we go with this, what's the ending?*
+*How did he send the weaver to do his bidding?*
 
-He needs to go back and confront the unnamed.
+* Was the weaver a normal person before becoming the weaver?
 
-1. he defies the unnamed and in takes his power in naming him
-2. he goes back to work, endless closing voids and destroying voidmakers
-3. he defies the unnamed and goes to back to life his own life
+* Was the weaver created by unnamed? (uh oh, patricide in the end!)
 
-Number 2 is the Sisyphean ending and could be an endless loop for the player.
-Banished from the presence of the unnamed and compelled to keep working against
-the voidmakers.
+* If normal person before, does he gradually regain memories as the story goes
+  by? If so, why does he have recollections of disasters, and the need to weave?
+  Were those memories real?
 
-The third pulls the weaver out of the story as the unnamed goes on his own
-quest against the voidmakers, razing the world in the process as they take the
-nuclear option against him... trying to create an entire reality of voidmakers
-to counter him
-
-*And conversely, what is the opening?*
-
-I like the idea of opening on the weaver closing a void. This is his task and the
-player's primary task. The expected mechanic is the first thing introduced.
+The task that he sent him on not worthy of the unnamed's attention. He set the
+weaver on his way and then promptly moved on to other things.
 
 *Voidmakers?*
 
@@ -226,7 +252,7 @@ She's come back knowing much about the unnamed and wants to liberate her home
 reality.
 
 The first time the weaver sees her she dives back into the void. He believes
-she's lost until he encounters her later. She's stronger than the rest. She 
+she's lost until he encounters her later. She's stronger than the rest. She
 can create a void and not be significantly weakened by it
 
 > Portals!
@@ -235,6 +261,52 @@ can create a void and not be significantly weakened by it
 
 Let's say he was successful and bled this reality dry. Then what?
 
+> There can be a separate universe, a previous location that unnamed
+> successfully destroyed. I'm open to anything for this.
+
+
+## Ending
+
+So in VN format you can actually choose bunch of courses to go with the story. I
+think these are called decision trees / routes (not proper trees btw). On a more
+traditional format, ever seen those books which tell you to go to certain pages
+depending on your choice? It's kind of like that I guess.
+
+*Ending Linear?*
+
+I yes, we need to choose one point from below. If not we can have multiple
+endings. I think I'd prefer a linear ending. I don't mind having a happy ending.
+If there's no good reason, or no creative reason to not have a good ending, then
+I personlly find 'bad' endings a little silly.
+
+*If we go with this, what's the ending?*
+
+He needs to go back and confront the unnamed.
+
+1. he defies the unnamed and in takes his power in naming him
+2. he goes back to work, endless closing voids and destroying voidmakers
+3. he defies the unnamed and goes to back to life his own life
+
+Number 2 is the Sisyphean ending and could be an endless loop for the player.
+Banished from the presence of the unnamed and compelled to keep working against
+the voidmakers.
+
+The third pulls the weaver out of the story as the unnamed goes on his own
+quest against the voidmakers, razing the world in the process as they take the
+nuclear option against him... trying to create an entire reality of voidmakers
+to counter him
+
+> I was thinking to go with the idea of yours where the weaver collects pieces
+> of reality that have been torn off. He eventually weaves them together around
+> the unnamed entity and forms a separate reality, small enough to suffocate the
+> unnamed.
+
+*And conversely, what is the opening?*
+
+I like the idea of opening on the weaver closing a void. This is his task and the
+player's primary task. The expected mechanic is the first thing introduced.
+
+> Fine by me.
 *Miscellaneous Content (Mostly Dialogue)*
 
 And then he sent you, his little messiah, out to mind the fences.
@@ -242,7 +314,7 @@ And then he sent you, his little messiah, out to mind the fences.
 I can tell you his name...
 
 I know who you are. You're my maker and my warden.
-You are the butcher, slowly allowing an entire reality to dance 
+You are the butcher, slowly allowing an entire reality to dance
 themselves to death in your private little slaughter.
 I don't need to speak your name because I know your sins.
 You are my father.
@@ -257,7 +329,7 @@ When I left there were dozens.
 I return to find there are hundreds.
 Tomorrow there'll be even more.
 And the day after.
-And then the day after that. 
+And then the day after that.
 There is only so long you can contain us.
 Only so long you can force us to behave.
 
